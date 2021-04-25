@@ -3,7 +3,7 @@
 The current project was developed in the fifth edition of __NLW (Next Level Week)__ from [RocketSeat](https://rocketseat.com.br/).
 </br>
 Basically it is an event that happens in the start of week until the final of week. 
-You can selec a "Technology Trail" to evolve your knowledege about the tech selected. For example: React Trail, React Native Trail, Elixir Trail etc.
+You can select a "Technology Trail" to evolve your knowledege about the tech selected, for example: React Trail, React Native Trail, Elixir Trail etc.
 </br>
 Each day we receive a new video about the project. The projects and techs are chosen with the market demand in mind.
 
@@ -18,9 +18,9 @@ Each day we receive a new video about the project. The projects and techs are ch
 ## 💃 Presentation 💃 
 ### 🖼️ Images 🖼️
 <p display="flex">
-<img height="600" width="300" src="https://user-images.githubusercontent.com/73757018/116008792-b572da00-a5ec-11eb-8982-98301e26c36c.jpeg" />
-<img height="600" width="300" src="https://user-images.githubusercontent.com/73757018/116008793-b86dca80-a5ec-11eb-95fa-1462286a16d5.jpeg" />
-<img height="600" width="300" src="https://user-images.githubusercontent.com/73757018/116008794-b9066100-a5ec-11eb-8984-673e92a50708.jpeg" />
+<img height="500" width="250" src="https://user-images.githubusercontent.com/73757018/116008792-b572da00-a5ec-11eb-8982-98301e26c36c.jpeg" />
+<img height="500" width="250" src="https://user-images.githubusercontent.com/73757018/116008793-b86dca80-a5ec-11eb-95fa-1462286a16d5.jpeg" />
+<img height="500" width="250" src="https://user-images.githubusercontent.com/73757018/116008794-b9066100-a5ec-11eb-8984-673e92a50708.jpeg" />
 </p>
 
 ### 📹 Video 📹
